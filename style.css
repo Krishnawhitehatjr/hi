@@ -1,0 +1,35 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+    box-shadow: 5px 5px 5px khaki;
+    background-color:gold;
+}
+.note
+{
+    font-size: 15px;
+    color: rebeccapurple;
+}
+body
+{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ft
+{
+    position: fixed;
+    color: silver;
+    bottom: 0;
+    width: 100%;
+    background-color: blueviolet;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px slategray;
+}
